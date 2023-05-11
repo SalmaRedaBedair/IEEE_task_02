@@ -1,5 +1,11 @@
+.container{
+    display: flex;
+}
+
 .shape {
-    display: inline-block;
+    width: 33%;
+    float: left;
+    /* display: inline-block; */
     background-color: #EEE;
     padding: 25px;
     margin: 10px;
